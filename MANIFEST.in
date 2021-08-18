@@ -1,0 +1,6 @@
+include *.py
+include *.txt
+recursive-include bot *.py
+recursive-include bot *.pyc
+recursive-include bot *.txt
+recursive-include build *.py
