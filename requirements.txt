@@ -1,0 +1,5 @@
+PyInquirer>=1.0.3
+regex~=2021.8.3
+setuptools~=49.2.1
+discord~=1.0.1
+discord-py-slash-command>=2.4.1
